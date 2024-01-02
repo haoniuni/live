@@ -4,7 +4,7 @@
 
 "sites":[
 {"key":"豆豆","name":"🌕【哈哈哈】","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕不断流","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://mirror.ghproxy.com/raw.githubusercontent.com/wsad5354/live/main/ali/123.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
+{"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕不断流","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://mirror.ghproxy.com/raw.githubusercontent.com/wsad5354/live/main/ali/123.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
 {"key":"YGP","name":"🚀叨观荐影┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 
 {"key":"Czsapp","name":"📔厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":0,"quickSearch":0,"changeable":0,"ext": "https://www.czzy33.com/"},
