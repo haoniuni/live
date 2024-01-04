@@ -1,11 +1,11 @@
 {
-"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;fd784008ab71d81a178564841059756d",
+"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;64110baeb9974690f7b374a8b2586ac5",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 
 "sites":[
 {"key":"豆豆","name":"🌕【哈哈哈】","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"荐片","name":"🐭荐片┃磁力","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://fanty.run.goorm.site/ext/js/drpy2.min.js","ext":"https://fanty.run.goorm.site/ext/jp.js"},
-{"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕不断流","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","ext":"http://mirror.ghproxy.com/raw.githubusercontent.com/wsad5354/live/main/ali/123.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
+{"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕不断流","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","ext":"http://mirror.ghproxy.com/raw.githubusercontent.com/wsad5354/live/main/ali/123.txt+auto|fhd|4k$$$https://api.wogg.xyz/$$$弹"},
 {"key":"YGP","name":"🚀叨观荐影┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 
 {"key":"Czsapp","name":"📔厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":0,"quickSearch":0,"changeable":0,"ext": "https://www.czzy33.com/"},
